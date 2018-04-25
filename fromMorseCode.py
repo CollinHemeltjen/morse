@@ -1,8 +1,5 @@
 import csvHelper
 
-
-
-
 def text_to_morse(input, morse_dictionairy):
     output = ""
     split = input.split(" / ")

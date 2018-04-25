@@ -1,7 +1,5 @@
 import csvHelper
 
-
-
 # uses the input and given dictionairy to find the corresponding morse code
 def text_to_morse(input, morse_dictionairy):
     output = ""
